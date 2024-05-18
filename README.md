@@ -1,1 +1,1 @@
-# Processor
+A simple processor implemented in Verilog that executes instructions based on opcodes, updating registers and flags accordingly. A testbench module simulates the processor's operation by providing various instructions and observing the outputs to verify correct functionality.
